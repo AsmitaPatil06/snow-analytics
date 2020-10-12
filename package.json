@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@analytics/snowplow": "^0.2.1",
     "@angular/animations": "~10.0.6",
     "@angular/common": "~10.0.6",
     "@angular/compiler": "~10.0.6",
@@ -19,6 +20,10 @@
     "@angular/platform-browser": "~10.0.6",
     "@angular/platform-browser-dynamic": "~10.0.6",
     "@angular/router": "~10.0.6",
+    "analytics": "^0.5.5",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
